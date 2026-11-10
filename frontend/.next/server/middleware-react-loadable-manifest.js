@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\tabs\\\\Tab5Usability.tsx -> axe-core\":{\"id\":\"components\\\\tabs\\\\Tab5Usability.tsx -> axe-core\",\"files\":[\"static/chunks/node_modules_axe-core_axe_js.js\"]}}"
